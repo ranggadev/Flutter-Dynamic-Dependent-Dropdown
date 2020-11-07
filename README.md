@@ -1,6 +1,6 @@
 # dynamic_dependent_dropdown
 
-A new Flutter project.
+Code with ❤ by Rangga Saputra from Indonesia.
 
 ## Getting Started
 
